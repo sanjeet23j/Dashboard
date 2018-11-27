@@ -1,0 +1,241 @@
+.container{
+
+    display: flex;
+    
+}
+
+/*-----------col-md-3-----------*/
+
+.col-md-3{
+    flex-grow: 1;
+    background-color: #231d2e;
+
+}
+.admin-profile{
+padding: 25px 30px
+}
+.profile-img{
+    height: 60px;
+    width: 60px;
+    border-radius: 50%;
+}
+
+.admin-profile >h3{
+    color: #f4f4f4;
+    margin-top: 5px;
+    margin-bottom: 3px;
+
+}.admin-profile >h4{
+    color: #f4f4f4;
+    margin-top: 0px;
+    color: #beb5b5
+
+}
+hr{
+border: 1px solid #393838;
+    margin-bottom: 10px
+}
+.dashboard{
+background-color: #fff;
+    margin-left: 10px;
+    margin-bottom: 20px;
+    width: 200px;
+    padding-left: 25px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 20px;
+    cursor: pointer;
+}
+.dashboard >span{
+padding-left: 25px;
+
+}
+.dashboard >span > a{
+    text-decoration: none;
+    color: #000;
+}
+
+.find-consultants,.consultants, .applicants, .invoice, .contracts, .my-profile, .settings{
+    margin-left: 10px;
+     margin-bottom: 15px;;
+    width: 200px;
+    padding-left: 25px;
+    padding-top: 10px;
+    border-radius: 20px;
+    cursor: pointer;
+}
+.find-consultants >span, .consultants>span , .applicants>span, .invoice>span , .contracts>span , .my-profile>span, .settings>span{
+padding-left: 20px;
+  
+
+}
+.find-consultants >span > a, .consultants >span>a , .applicants >span>a, .invoice>span>a , .contracts>span>a , .my-profile>span>a , .settings>span>a{
+    text-decoration: none;
+    color: #fff;
+
+}
+.number-of-job {
+    background: #7ec78f;
+    margin-left: 50px;
+    padding-right: 10px;
+    border-radius: 11px;
+    padding-top: 1px;
+    padding-bottom: 1px;
+    padding-left: 2px;
+}
+/*
+.find-consultants:hover,.find-consultants >span > a:hover{
+  
+   background-color: #fff;
+    color: #000;
+    
+}
+*/
+
+
+
+
+
+/*-----------col-md-9-----------*/
+.col-md-9{
+    flex-grow: 20;
+    background-color: #fbfbfc;
+    display: flex;
+    flex-direction: column;
+
+}
+
+.applicant-overview{
+    display: flex;
+    justify-content: space-between;
+    background-color: #fff;
+    box-shadow: 1px 1px 1px 1px #f7f7f7;
+    align-items:center;
+
+}
+.applicant-overview-main{
+ margin-left: 50px;
+}
+.applicant-overview-main >h2{
+    margin-bottom: 0px;
+}
+.applicant-overview-main >h4{
+    margin-top: 5px;
+    color: #636262
+}
+.applicant-profile-all{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+
+}
+
+.applicant-profile-about{
+        background-color: #fff;
+    box-shadow: 1px 1px 1px 1px #f4f0f0;
+    margin-top: 30px;
+    
+}
+.applicant-profile{
+    display: flex;
+    flex-wrap: wrap;
+    padding: 20px;
+    border-radius: 3px;
+    align-items: center;
+    
+   
+}
+.applicant-profile-header{
+    padding-left: 15px;
+    padding-right: 90px;
+
+}
+.applicant-profile-header > h2{
+    margin-bottom: 0px;
+    margin-top: 20px;
+    color: #8e8787;
+    font-weight: 400
+}
+.applicant-profile-header > h3{
+    margin-top: 0px;
+    color: #afa6a6;
+    font-weight: 400
+}
+.applicant-profile >span{
+    font-size: 25px;
+    padding-left: 10px;
+    padding-top: 3px;
+
+}
+.job-matching, .hourly-rate{
+    padding-left: 35px;
+    display: inline-block;
+
+}
+.job-matching >h4, .hourly-rate >h4{
+    margin-top: 0px;
+    padding-left: 35px;
+    font-weight: 400;
+    color: #919191
+}
+.job-matching >span , .hourly-rate >span {
+    padding-left: 10px;
+    font-weight: 400;
+    color: #919191;
+    font-size: 25px
+   
+}
+.programming-language{
+    display: flex;
+    width: 123px;
+    box-shadow: 1px 1px 1px 1px #e4e4e4;
+    border-radius: 15px;
+    margin-left: 30px;
+    margin-bottom: 20px;
+    padding-left: 3px;
+    padding-top: 3px;
+    padding-bottom: 2px;
+    
+
+}
+.programming-language >span{
+    padding-left: 10px;
+    padding-top: 2px
+
+}
+.programming-language-icon{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 25px;
+    width: 25px;
+    background-color: #d966a0;
+    border-radius: 50%;
+  
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
