@@ -1,244 +1,244 @@
-.container{
+.container {
 
     display: flex;
-    
+
 }
 
 /*-----------col-md-3-----------*/
 
-.col-md-3{
+.col-md-3 {
     flex-grow: 1;
     background-color: #231d2e;
 
 }
-.admin-profile{
-padding: 25px 30px
+
+.admin-profile {
+    padding: 25px 30px
 }
-.profile-img{
+
+.profile-img {
     height: 60px;
     width: 60px;
     border-radius: 50%;
 }
 
-.admin-profile >h3{
+.admin-profile > h3 {
     color: #f4f4f4;
     margin-top: 5px;
     margin-bottom: 3px;
 
-}.admin-profile >h4{
+}
+
+.admin-profile > h4 {
     color: #f4f4f4;
     margin-top: 0px;
     color: #beb5b5
-
 }
-hr{
-border: 1px solid #393838;
+
+hr {
+    border: 1px solid #393838;
     margin-bottom: 10px
 }
+
 .dashboard {
     margin-bottom: 20px;
-    width: 200px;
     border-radius: 20px;
     cursor: pointer;
     background-color: #fff;
     padding: 10px;
-        
-}
-.dashboard:visited {
-
 
 }
+
 .admin-list-items {
     padding-right: 29px;
 }
-.admin-list-items > .dashboard >a{
+
+.admin-list-items > .dashboard > a {
     color: #1f1f1f;
 }
-.admin-list-items > .dashboard >a:hover{
+
+.admin-list-items > .dashboard > a:hover {
     color: #797878;
 }
-.admin-list-items >li{
+
+.admin-list-items > li {
     margin-bottom: 15px;
-     padding: 10px;
+    padding: 10px;
     width: 200px;
     cursor: pointer;
     list-style-type: none;
-  
-   
-              
 }
-.admin-list-items >li >a{
+
+.admin-list-items > li > a {
     padding-left: 20px;
     text-decoration: none;
     color: #d6d6d6;
 
 }
-.admin-list-items >li >a:hover{
+
+.admin-list-items > li > a:hover {
     padding-left: 20px;
     text-decoration: none;
     color: #fff;
 
 }
-
-/*
-.admin-list-items >li:hover{
-    margin-bottom: 15px;
-    width: 200px;
-    padding-top: 10px;
-    cursor: pointer;
-    list-style-type: none;
-    background-color: #fff;
-    border-radius: 20px;
-    padding-bottom: 10px;
-    margin-left: -10px;
-    padding-left: 10px;
-     color: #000;
-    
-
-}
-*/
-
-
-/*
-.admin-list-items >li >a:hover{
-    padding-left: 20px;
-    text-decoration: none;
-    color: #000;
-
-}
-*/
-
-
 
 .number-of-job {
     background: #7ec78f;
     margin-left: 50px;
     border-radius: 11px;
     padding: 1px 10px;
-     color: #fff1f1; 
+    color: #fff1f1;
 }
 
+
 /*-----------col-md-9-----------*/
-.col-md-9{
+
+
+.col-md-9 {
     flex-grow: 20;
     background-color: #fbfbfc;
     display: flex;
     flex-direction: column;
 
 }
-.new-user{
+
+.new-user {
     width: 50px;
     height: 30px;
     background-color: #fd2098;
     color: #fff;
     font-size: 18px;
-   padding: 5px 10px;
-    
+    padding: 5px 10px;
+
 
 }
-.applicant-overview{
+
+.applicant-overview {
     display: flex;
     justify-content: space-between;
     background-color: #fff;
     box-shadow: 2px 2px 2px 2px #ececec;
-    align-items:center;
-        padding-left: 40px;
+    align-items: center;
+    padding-left: 40px;
 }
-.applicant-overview-main{
- padding-left: 50px;
+
+.applicant-overview-main {
+    padding-left: 50px;
     padding-top: 50px;
 }
-.applicant-overview-main >h2{
+
+.applicant-overview-main > h2 {
     margin-bottom: 0px;
 }
-.applicant-overview-main >h4{
+
+.applicant-overview-main > h4 {
     margin-top: 5px;
     color: #636262
 }
-.applicant-overview >div> svg{
-padding-right: 40px;
+
+.applicant-overview > div > svg {
+    padding-right: 40px;
 
 }
-.applicant-profile-all{
+
+.applicant-profile-all {
     display: flex;
-    justify-content:space-evenly;
+    justify-content: space-evenly;
     flex-wrap: wrap;
 
 }
 
-.applicant-profile-about{
-        background-color: #fff;
-        box-shadow: 1px 1px 1px 1px #e5e1e1;
-        margin: 20px;
-        border-radius: 3px;
-        flex-grow: 1
-            
-    
+.applicant-profile-about {
+    background-color: #fff;
+    box-shadow: 1px 1px 1px 1px #e5e1e1;
+    margin: 20px;
+    border-radius: 3px;
+    flex-grow: 1
 }
-.applicant-profile{
+
+.applicant-profile-about:hover {
+
+    -webkit-transform: scale(0.8);
+    -ms-transform: scale(0.8);
+    transform: scale(0.9);
+    transition-duration: 0.5s;
+    box-shadow: 0 0 1px rgba(0, 0, 0, 0);
+}
+
+.applicant-profile {
     display: flex;
     flex-wrap: wrap;
-       padding: 0 10px;
+    padding: 0 10px;
     border-radius: 3px;
     align-items: center;
     border-bottom: 1px solid #ded4d4;
     margin-bottom: 15px
-    
-   
 }
-.applicant-profile-header{
+
+.applicant-profile-header {
     padding-left: 15px;
     padding-right: 160px;
 
 }
-.applicant-profile-header > h2{
+
+.applicant-profile-header > h2 {
     margin-bottom: 0px;
     margin-top: 20px;
     color: #8e8787;
     font-weight: 400
 }
-.applicant-profile-header > h3{
+
+.applicant-profile-header > h3 {
     margin-top: 0px;
     color: #afa6a6;
     font-weight: 400
 }
-.applicant-profile >span{
+
+.applicant-profile > span {
     font-size: 25px;
     padding-left: 10px;
     padding-top: 3px;
     margin-right: 22px;
 
 }
-.job-details{
-        border-bottom: 1px solid #ded4d4;
+
+.job-details {
+    border-bottom: 1px solid #ded4d4;
     margin-bottom: 15px
 }
-.job-matching, .hourly-rate{
+
+.job-matching,
+.hourly-rate {
     padding-left: 35px;
     display: inline-block;
 
 
 }
-.job-matching >h4, .hourly-rate >h4{
+
+.job-matching > h4,
+.hourly-rate > h4 {
     margin-top: 0px;
     padding-left: 35px;
     font-weight: 400;
     color: #919191
 }
-.job-matching >span , .hourly-rate >span {
+
+.job-matching > span,
+.hourly-rate > span {
     padding-left: 10px;
     font-weight: 400;
     color: #919191;
     font-size: 25px
-   
 }
-.programming-language{
+
+.programming-language {
     display: flex;
 
 
 }
 
-.programmming-language-list{
+.programmming-language-list {
     width: 123px;
     box-shadow: 1px 1px 1px 1px #e4e4e4;
     border-radius: 15px;
@@ -250,52 +250,26 @@ padding-right: 40px;
     height: 24px;
 
 }
-.programmming-language-list >span{
+
+.programmming-language-list > span {
     position: absolute;
     padding-left: 29px;
     margin-top: -19px;
 
 }
 
-.programming-language-icon{
+.programming-language-icon {
     height: 20px;
     width: 20px;
-    background:rgb(225, 87, 190);
+    background: rgb(225, 87, 190);
     border-radius: 50%;
     position: relative
-
-  
 }
+
 .programming-language-icon > svg {
     left: 50%;
     top: 50%;
-    transform: translate(-50% , -50%);
+    transform: translate(-50%, -50%);
     position: absolute;
-  
+
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
