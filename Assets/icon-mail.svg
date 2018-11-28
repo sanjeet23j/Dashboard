@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.4 (67378) - http://www.bohemiancoding.com/sketch -->
+    <title>icon-mail</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" fill-opacity="0.9">
+        <g id="Artboard" fill="#000000" fill-rule="nonzero">
+            <path d="M10,0 C4.48,0 0,4.48 0,10 C0,15.52 4.48,20 10,20 L15,20 L15,18 L10,18 C5.66,18 2,14.34 2,10 C2,5.66 5.66,2 10,2 C14.34,2 18,5.66 18,10 L18,11.43 C18,12.22 17.29,13 16.5,13 C15.71,13 15,12.22 15,11.43 L15,10 C15,7.24 12.76,5 10,5 C7.24,5 5,7.24 5,10 C5,12.76 7.24,15 10,15 C11.38,15 12.64,14.44 13.54,13.53 C14.19,14.42 15.31,15 16.5,15 C18.47,15 20,13.4 20,11.43 L20,10 C20,4.48 15.52,0 10,0 Z M10,13 C8.34,13 7,11.66 7,10 C7,8.34 8.34,7 10,7 C11.66,7 13,8.34 13,10 C13,11.66 11.66,13 10,13 Z" id="icon-mail"></path>
+        </g>
+    </g>
+</svg>

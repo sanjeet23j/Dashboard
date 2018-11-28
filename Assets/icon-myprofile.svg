@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="21px" height="20px" viewBox="0 0 21 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.4 (67378) - http://www.bohemiancoding.com/sketch -->
+    <title>My profile</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Side-Nav/Consultant" transform="translate(-34.000000, -400.000000)" fill="#000000">
+            <g id="Side-nav">
+                <g id="Menu" transform="translate(1.004184, 156.000000)">
+                    <g id="icons" transform="translate(32.133891, 12.000000)">
+                        <path d="M11.0460251,232 C5.52301255,232 1.0041841,236.5 1.0041841,242 C1.0041841,247.5 5.52301255,252 11.0460251,252 C16.5690377,252 21.0878661,247.5 21.0878661,242 C21.0878661,236.5 16.5690377,232 11.0460251,232 L11.0460251,232 Z M11.0460251,235 C12.7531381,235 14.0585774,236.3 14.0585774,238 C14.0585774,239.7 12.7531381,241 11.0460251,241 C9.33891213,241 8.0334728,239.7 8.0334728,238 C8.0334728,236.3 9.33891213,235 11.0460251,235 L11.0460251,235 Z M11.0460251,249.2 C8.53556485,249.2 6.32635983,247.9 5.0209205,246 C5.0209205,244 9.0376569,242.9 11.0460251,242.9 C13.0543933,242.9 17.0711297,244 17.0711297,246 C15.7656904,247.9 13.5564854,249.2 11.0460251,249.2 L11.0460251,249.2 Z" id="My-profile"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

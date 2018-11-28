@@ -35,66 +35,88 @@ hr{
 border: 1px solid #393838;
     margin-bottom: 10px
 }
-.dashboard{
-background-color: #fff;
-    margin-left: 10px;
+.dashboard {
     margin-bottom: 20px;
     width: 200px;
-    padding-left: 25px;
-    padding-top: 10px;
-    padding-bottom: 10px;
     border-radius: 20px;
     cursor: pointer;
+    background-color: #fff;
+    padding: 10px;
+        
 }
-.dashboard >span{
-padding-left: 25px;
+.dashboard:visited {
+
 
 }
-.dashboard >span > a{
-    text-decoration: none;
-    color: #000;
+.admin-list-items {
+    padding-right: 29px;
 }
-
-.find-consultants,.consultants, .applicants, .invoice, .contracts, .my-profile, .settings{
-    margin-left: 10px;
-     margin-bottom: 15px;;
+.admin-list-items > .dashboard >a{
+    color: #1f1f1f;
+}
+.admin-list-items > .dashboard >a:hover{
+    color: #797878;
+}
+.admin-list-items >li{
+    margin-bottom: 15px;
+     padding: 10px;
     width: 200px;
-    padding-left: 25px;
-    padding-top: 10px;
-    border-radius: 20px;
     cursor: pointer;
-}
-.find-consultants >span, .consultants>span , .applicants>span, .invoice>span , .contracts>span , .my-profile>span, .settings>span{
-padding-left: 20px;
+    list-style-type: none;
   
+   
+              
+}
+.admin-list-items >li >a{
+    padding-left: 20px;
+    text-decoration: none;
+    color: #d6d6d6;
 
 }
-.find-consultants >span > a, .consultants >span>a , .applicants >span>a, .invoice>span>a , .contracts>span>a , .my-profile>span>a , .settings>span>a{
+.admin-list-items >li >a:hover{
+    padding-left: 20px;
     text-decoration: none;
     color: #fff;
 
 }
-.number-of-job {
-    background: #7ec78f;
-    margin-left: 50px;
-    padding-right: 10px;
-    border-radius: 11px;
-    padding-top: 1px;
-    padding-bottom: 1px;
-    padding-left: 2px;
-}
+
 /*
-.find-consultants:hover,.find-consultants >span > a:hover{
-  
-   background-color: #fff;
-    color: #000;
+.admin-list-items >li:hover{
+    margin-bottom: 15px;
+    width: 200px;
+    padding-top: 10px;
+    cursor: pointer;
+    list-style-type: none;
+    background-color: #fff;
+    border-radius: 20px;
+    padding-bottom: 10px;
+    margin-left: -10px;
+    padding-left: 10px;
+     color: #000;
     
+
+}
+*/
+
+
+/*
+.admin-list-items >li >a:hover{
+    padding-left: 20px;
+    text-decoration: none;
+    color: #000;
+
 }
 */
 
 
 
-
+.number-of-job {
+    background: #7ec78f;
+    margin-left: 50px;
+    border-radius: 11px;
+    padding: 1px 10px;
+     color: #fff1f1; 
+}
 
 /*-----------col-md-9-----------*/
 .col-md-9{
@@ -104,17 +126,27 @@ padding-left: 20px;
     flex-direction: column;
 
 }
+.new-user{
+    width: 50px;
+    height: 30px;
+    background-color: #fd2098;
+    color: #fff;
+    font-size: 18px;
+   padding: 5px 10px;
+    
 
+}
 .applicant-overview{
     display: flex;
     justify-content: space-between;
     background-color: #fff;
-    box-shadow: 1px 1px 1px 1px #f7f7f7;
+    box-shadow: 2px 2px 2px 2px #ececec;
     align-items:center;
-
+        padding-left: 40px;
 }
 .applicant-overview-main{
- margin-left: 50px;
+ padding-left: 50px;
+    padding-top: 50px;
 }
 .applicant-overview-main >h2{
     margin-bottom: 0px;
@@ -123,31 +155,40 @@ padding-left: 20px;
     margin-top: 5px;
     color: #636262
 }
+.applicant-overview >div> svg{
+padding-right: 40px;
+
+}
 .applicant-profile-all{
     display: flex;
-    justify-content: space-around;
+    justify-content:space-evenly;
     flex-wrap: wrap;
 
 }
 
 .applicant-profile-about{
         background-color: #fff;
-    box-shadow: 1px 1px 1px 1px #f4f0f0;
-    margin-top: 30px;
+        box-shadow: 1px 1px 1px 1px #e5e1e1;
+        margin: 20px;
+        border-radius: 3px;
+        flex-grow: 1
+            
     
 }
 .applicant-profile{
     display: flex;
     flex-wrap: wrap;
-    padding: 20px;
+       padding: 0 10px;
     border-radius: 3px;
     align-items: center;
+    border-bottom: 1px solid #ded4d4;
+    margin-bottom: 15px
     
    
 }
 .applicant-profile-header{
     padding-left: 15px;
-    padding-right: 90px;
+    padding-right: 160px;
 
 }
 .applicant-profile-header > h2{
@@ -165,11 +206,17 @@ padding-left: 20px;
     font-size: 25px;
     padding-left: 10px;
     padding-top: 3px;
+    margin-right: 22px;
 
+}
+.job-details{
+        border-bottom: 1px solid #ded4d4;
+    margin-bottom: 15px
 }
 .job-matching, .hourly-rate{
     padding-left: 35px;
     display: inline-block;
+
 
 }
 .job-matching >h4, .hourly-rate >h4{
@@ -187,30 +234,43 @@ padding-left: 20px;
 }
 .programming-language{
     display: flex;
+
+
+}
+
+.programmming-language-list{
     width: 123px;
     box-shadow: 1px 1px 1px 1px #e4e4e4;
     border-radius: 15px;
     margin-left: 30px;
     margin-bottom: 20px;
     padding-left: 3px;
-    padding-top: 3px;
-    padding-bottom: 2px;
-    
+    padding-top: 4px;
+    cursor: pointer;
+    height: 24px;
 
 }
-.programming-language >span{
-    padding-left: 10px;
-    padding-top: 2px
+.programmming-language-list >span{
+    position: absolute;
+    padding-left: 29px;
+    margin-top: -19px;
 
 }
+
 .programming-language-icon{
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    height: 25px;
-    width: 25px;
-    background-color: #d966a0;
+    height: 20px;
+    width: 20px;
+    background:rgb(225, 87, 190);
     border-radius: 50%;
+    position: relative
+
+  
+}
+.programming-language-icon > svg {
+    left: 50%;
+    top: 50%;
+    transform: translate(-50% , -50%);
+    position: absolute;
   
 }
 

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="21px" height="18px" viewBox="0 0 21 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.4 (67378) - http://www.bohemiancoding.com/sketch -->
+    <title>Invoices</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Side-Nav/Consultant" transform="translate(-35.000000, -285.000000)" fill="#000000">
+            <g id="Side-nav">
+                <g id="Menu" transform="translate(1.004184, 156.000000)">
+                    <g id="icons" transform="translate(32.133891, 12.000000)">
+                        <path d="M19.0794979,122 L5.0209205,122 C3.31380753,122 2.0083682,123.3 2.0083682,125 L2.0083682,131 L6.0251046,131 L6.0251046,135 L18.0753138,135 L18.0753138,131 L22.0920502,131 L22.0920502,125 C22.0920502,123.3 20.7866109,122 19.0794979,122 L19.0794979,122 Z M16.0669456,133 L8.0334728,133 L8.0334728,128 L16.0669456,128 L16.0669456,133 L16.0669456,133 Z M19.0794979,126 C18.4769874,126 18.0753138,125.6 18.0753138,125 C18.0753138,124.4 18.4769874,124 19.0794979,124 C19.6820084,124 20.083682,124.4 20.083682,125 C20.083682,125.6 19.6820084,126 19.0794979,126 L19.0794979,126 Z M18.0753138,117 L6.0251046,117 L6.0251046,121 L18.0753138,121 L18.0753138,117 L18.0753138,117 Z" id="Invoices"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

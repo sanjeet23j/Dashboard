@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="22px" height="16px" viewBox="0 0 22 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.4 (67378) - http://www.bohemiancoding.com/sketch -->
+    <title>icon-coins</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" fill="#000000" fill-rule="nonzero">
+            <path d="M14,0 C18.42,0 22,3.58 22,8 C22,12.42 18.42,16 14,16 C9.58,16 6,12.42 6,8 C6,3.58 9.58,0 14,0 Z M14,14 C17.31,14 20,11.31 20,8 C20,4.69 17.31,2 14,2 C10.69,2 8,4.69 8,8 C8,11.31 10.69,14 14,14 Z M2,8 C2,10.61 3.67,12.83 6,13.65 L6,15.74 C2.55,14.85 0,11.73 0,8 C0,4.27 2.55,1.15 6,0.26 L6,2.35 C3.67,3.17 2,5.39 2,8 Z" id="icon-coins"></path>
+        </g>
+    </g>
+</svg>

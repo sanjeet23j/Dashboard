@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="18px" height="16px" viewBox="0 0 18 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.4 (67378) - http://www.bohemiancoding.com/sketch -->
+    <title>icon-transport</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-2.000000, -3.000000)" fill="#000000" fill-rule="nonzero">
+            <path d="M17.92,4.01 L20,10 L20,18 C20,18.55 19.55,19 19,19 L18,19 C17.45,19 17,18.55 17,18 L17,17 L5,17 L5,18 C5,18.55 4.55,19 4,19 L3,19 C2.45,19 2,18.55 2,18 L2,10 L4.08,4.01 C4.29,3.42 4.84,3 5.5,3 L16.5,3 C17.16,3 17.72,3.42 17.92,4.01 Z M5.85,5 L4.77,8.11 L17.22,8.11 L16.14,5 L5.85,5 Z M18,15 L18,10 L4,10 L4,15 L18,15 Z M6.5,14 C5.67157288,14 5,13.3284271 5,12.5 C5,11.6715729 5.67157288,11 6.5,11 C7.32842712,11 8,11.6715729 8,12.5 C8,13.3284271 7.32842712,14 6.5,14 Z M15.5,14 C14.6715729,14 14,13.3284271 14,12.5 C14,11.6715729 14.6715729,11 15.5,11 C16.3284271,11 17,11.6715729 17,12.5 C17,13.3284271 16.3284271,14 15.5,14 Z" id="icon-transport"></path>
+        </g>
+    </g>
+</svg>

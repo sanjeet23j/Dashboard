@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="13px" height="10px" viewBox="0 0 13 10" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.4 (67378) - http://www.bohemiancoding.com/sketch -->
+    <title>icon-checkmark</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" fill="#000000" fill-rule="nonzero">
+            <path d="M10.4149704,0.333818853 C10.7828921,-0.0780695741 11.4150531,-0.113711658 11.8269415,0.25421003 C12.2388299,0.622131718 12.274472,1.25429272 11.9065503,1.66618115 L4.9307071,9.47563946 C4.54804582,9.90402886 3.88397974,9.92273447 3.47781035,9.51656509 L0.292893219,6.33164796 C-0.0976310729,5.94112366 -0.0976310729,5.30795869 0.292893219,4.91743439 C0.683417511,4.5269101 1.31658249,4.5269101 1.70710678,4.91743439 L4.1439265,7.35425412 L10.4149704,0.333818853 Z" id="icon-checkmark"></path>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="24px" viewBox="0 0 20 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.4 (67378) - http://www.bohemiancoding.com/sketch -->
+    <title>icon-play</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" fill="#000000" fill-rule="nonzero">
+            <path d="M12.1655315,4.66087408 L15.4015115,20.3778544 C15.6866293,21.7626563 14.7951593,23.1163937 13.4103574,23.4015115 C13.0697618,23.471637 12.71845,23.471637 12.3778544,23.4015115 L-3.33912592,20.1655315 C-4.7239278,19.8804137 -5.61539786,18.5266763 -5.33028004,17.1418744 C-5.22935383,16.6516813 -4.98695701,16.2018222 -4.63306759,15.8479328 L7.84793276,3.36693241 C8.84767483,2.36719035 10.468577,2.36719035 11.468319,3.36693241 C11.8222085,3.72082183 12.0646053,4.17068091 12.1655315,4.66087408 Z" id="icon-play" transform="translate(4.096448, 12.096448) rotate(-45.000000) translate(-4.096448, -12.096448) "></path>
+        </g>
+    </g>
+</svg>
